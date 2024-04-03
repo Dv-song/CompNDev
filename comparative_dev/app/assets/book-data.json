@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Universal Principles of UX",
+    "format": "kindle",
+    "author": "Irene Pereyra",
+    "list_type": "Dave's fav",
+    "rating": "4.5",
+    "published": "2023-03-07",
+    "image": "images/book1.jpg"
+  },
+  {
+    "title": "This is Service Design Thinking",
+    "format": ["paper", "kindle"],
+    "author": "Marc Stickdorn",
+    "list_type": "Dave's fav",
+    "rating": "4.3",
+    "published": "2012-12-20",
+    "image": "images/book2.jpg"
+  },
+  {
+    "title": "Research for Designers:A Guide to Methods and Practice",
+    "format": "paper",
+    "author": "Gjoko Muratovski",
+    "list_type": "Dave's fav",
+    "rating": "4.1",
+    "published": "2021-12-01",
+    "image": "images/book3.jpg"
+  },
+  {
+    "title": "Don't Believe Everthing You Think",
+    "format": "kindle",
+    "author": "Joseph Nguyen",
+    "list_type": "Dave's fav",
+    "rating": "4.2",
+    "published": "2022-03-28",
+    "image": "images/book4.jpg"
+  },
+  {
+    "title": "Read People Like a Book: How to Analyze, Understand, and Predict People's Emotions, Thoughts, Intentions, and Behaviors",
+    "format": ["kindle", "paper"],
+    "author": "Patrick King",
+    "list_type": "Dave's fav",
+    "rating": "4.4",
+    "published": "2020-12-07",
+    "image": "images/book5.jpg"
+  },
+  {
+    "title": "The Idiot",
+    "format": "kindle",
+    "author": "Elif Batuman",
+    "list_type": "Dave's fav",
+    "rating": "3.8",
+    "published": "2017-03-14",
+    "image": "images/book6.jpg"
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "format": "kindle",
+    "author": "Mark Manson",
+    "list_type": "Bestsellers",
+    "rating": "4.6",
+    "published": "2016-09-13",
+    "image": "images/book7.jpg"
+  },
+  {
+    "title": "Becoming",
+    "format": "paper",
+    "author": "Michelle Obama",
+    "list_type": "Bestsellers",
+    "rating": "5.0",
+    "published": "2018-11-13",
+    "image": "images/book8.jpg"
+  },
+  {
+    "title": "Educated: A Memoir",
+    "format": "kindle",
+    "author": "Tara Westover",
+    "list_type": "Bestsellers",
+    "rating": "4.1",
+    "published": "2018-02-20",
+    "image": "images/book9.jpg"
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "format": ["kindle", "paper"],
+    "author": "Della Owens",
+    "list_type": "Bestsellers",
+    "rating": "4.7",
+    "published": "2018-08-14",
+    "image": "images/book10.jpg"
+  },
+  {
+    "title": "The Four Agreements",
+    "format": "kindle",
+    "author": ["Janet Mills", "Don Miguel Ruiz"],
+    "list_type": "Bestsellers",
+    "rating": "4.7",
+    "published": "2011-07-07",
+    "image": "images/book11.jpg"
+  },
+  {
+    "title": "Atomic Habits",
+    "format": ["kindle", "paper"],
+    "author": "James Clear",
+    "list_type": "Bestsellers",
+    "rating": "4.9",
+    "published": "2018-10-16",
+    "image": "images/book12.jpg"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "format": "kindle",
+    "author": "Yuval Noah Harari",
+    "list_type": "Bestsellers",
+    "rating": "4.6",
+    "published": "2015-02-15",
+    "image": "images/book13.jpg"
+  },
+  {
+    "title": "The Alchemist",
+    "format": ["kindle", "paper"],
+    "author": "Paulo Coelho",
+    "list_type": "Bestsellers",
+    "rating": "4.6",
+    "published": "2015-02-24",
+    "image": "images/book14.jpg"
+  },
+  {
+    "title": "The Midnight Library",
+    "format": "kindle",
+    "author": "Matt Halg",
+    "list_type": "Bestsellers",
+    "rating": "4.3",
+    "published": "2020-09-26",
+    "image": "images/book15.jpg"
+  },
+  {
+    "title": "The Invisible Life of Addie LaRue",
+    "format": ["kindle", "paper"],
+    "author": "V.E. Schwab",
+    "list_type": "Bestsellers",
+    "rating": "4.5",
+    "published": "2020-10-06",
+    "image": "images/book16.jpg"
+  },
+  {
+    "title": "The Vanishing Half",
+    "format": "kindle",
+    "author": "Brit Bennett",
+    "list_type": "Bestsellers",
+    "rating": "4.4",
+    "published": "2020-06-02",
+    "image": "images/book17.jpg"
+  },
+  {
+    "title": "The Boy, the Mole, the Fox and the Horse",
+    "format": ["kindle", "paper"],
+    "author": "Charlie Mackesy",
+    "list_type": "Bestsellers",
+    "rating": "4.9",
+    "published": "2019-10-29",
+    "image": "images/book18.jpg"
+  },
+  {
+    "title": "Untamed",
+    "format": "kindle",
+    "author": "Glennon Doyle",
+    "list_type": "Bestsellers",
+    "rating": "4.6",
+    "published": "2020-03-10",
+    "image": "images/book19.jpg"
+  },
+  {
+    "title": "Pachinko",
+    "format": ["kindle", "paper"],
+    "author": "Min Jin Lee",
+    "list_type": "Bestsellers",
+    "rating": "5.0",
+    "published": "2017-02-07",
+    "image": "images/book20.jpg"
+  }
+]
