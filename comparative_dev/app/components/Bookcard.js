@@ -17,6 +17,7 @@ export default function Bookcard({ addToCart, addToFavorites, ...bookProps }) {
         <p className="bookFormat">{format}</p>
         <p>By: {authors}</p>
         <p>From: {bookProps.list_type}</p>
+        <p>Rating:{bookProps.rating}</p>
         <p>Published: {bookProps.published}</p>
       </div>
       <p className="price">${bookProps.price}</p>

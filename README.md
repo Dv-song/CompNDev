@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 cd comparative_dev
 ```
 
-3. Instell Dependencies 
+3. Install Dependencies 
 ```bash
     npm install
 ```
