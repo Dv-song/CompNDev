@@ -2,8 +2,8 @@
 
 import Image from "next/image";
 import bookdata from "./assets/book-data.json";
-import BookItem from "./components/bookcard";
 import NavBar from "./components/NavBar";
+import Bookcard from "./components/Bookcard";
 
 import React, { useState, useEffect } from "react";
 
@@ -125,13 +125,13 @@ export default function Home() {
       <div className="listingAndCart">
         <div className="list">
           {sortedBooks.map((item, index) => (
-            <BookItem
+            <Bookcard
               key={item.title}
               {...item}
               addToCart={() => addToCart(item)}
               addToFavorites={() => addToFavorites(item.title)}
               favorites={favorites}
-            ></BookItem>
+            ></Bookcard>
           ))}
         </div>
 
