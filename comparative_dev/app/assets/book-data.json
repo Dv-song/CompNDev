@@ -6,7 +6,8 @@
     "list_type": "Dave's fav",
     "rating": "4.5",
     "published": "2023-03-07",
-    "image": "images/book1.jpg"
+    "image": "images/book1.jpg",
+    "price": 19.99
   },
   {
     "title": "This is Service Design Thinking",
@@ -15,7 +16,8 @@
     "list_type": "Dave's fav",
     "rating": "4.3",
     "published": "2012-12-20",
-    "image": "images/book2.jpg"
+    "image": "images/book2.jpg",
+    "price": 24.99
   },
   {
     "title": "Research for Designers:A Guide to Methods and Practice",
@@ -24,7 +26,8 @@
     "list_type": "Dave's fav",
     "rating": "4.1",
     "published": "2021-12-01",
-    "image": "images/book3.jpg"
+    "image": "images/book3.jpg",
+    "price": 15.99
   },
   {
     "title": "Don't Believe Everthing You Think",
@@ -33,7 +36,8 @@
     "list_type": "Dave's fav",
     "rating": "4.2",
     "published": "2022-03-28",
-    "image": "images/book4.jpg"
+    "image": "images/book4.jpg",
+    "price": 18.99
   },
   {
     "title": "Read People Like a Book: How to Analyze, Understand, and Predict People's Emotions, Thoughts, Intentions, and Behaviors",
@@ -42,7 +46,8 @@
     "list_type": "Dave's fav",
     "rating": "4.4",
     "published": "2020-12-07",
-    "image": "images/book5.jpg"
+    "image": "images/book5.jpg",
+    "price": 21.99
   },
   {
     "title": "The Idiot",
@@ -51,7 +56,8 @@
     "list_type": "Dave's fav",
     "rating": "3.8",
     "published": "2017-03-14",
-    "image": "images/book6.jpg"
+    "image": "images/book6.jpg",
+    "price": 17.99
   },
   {
     "title": "The Subtle Art of Not Giving a F*ck",
@@ -60,7 +66,8 @@
     "list_type": "Bestsellers",
     "rating": "4.6",
     "published": "2016-09-13",
-    "image": "images/book7.jpg"
+    "image": "images/book7.jpg",
+    "price": 29.99
   },
   {
     "title": "Becoming",
@@ -69,7 +76,8 @@
     "list_type": "Bestsellers",
     "rating": "5.0",
     "published": "2018-11-13",
-    "image": "images/book8.jpg"
+    "image": "images/book8.jpg",
+    "price": 16.99
   },
   {
     "title": "Educated: A Memoir",
@@ -78,7 +86,8 @@
     "list_type": "Bestsellers",
     "rating": "4.1",
     "published": "2018-02-20",
-    "image": "images/book9.jpg"
+    "image": "images/book9.jpg",
+    "price": 22.99
   },
   {
     "title": "Where the Crawdads Sing",
@@ -87,7 +96,8 @@
     "list_type": "Bestsellers",
     "rating": "4.7",
     "published": "2018-08-14",
-    "image": "images/book10.jpg"
+    "image": "images/book10.jpg",
+    "price": 14.99
   },
   {
     "title": "The Four Agreements",
@@ -96,7 +106,8 @@
     "list_type": "Bestsellers",
     "rating": "4.7",
     "published": "2011-07-07",
-    "image": "images/book11.jpg"
+    "image": "images/book11.jpg",
+    "price": 23.99
   },
   {
     "title": "Atomic Habits",
@@ -105,7 +116,8 @@
     "list_type": "Bestsellers",
     "rating": "4.9",
     "published": "2018-10-16",
-    "image": "images/book12.jpg"
+    "image": "images/book12.jpg",
+    "price": 25.99
   },
   {
     "title": "Sapiens: A Brief History of Humankind",
@@ -114,7 +126,8 @@
     "list_type": "Bestsellers",
     "rating": "4.6",
     "published": "2015-02-15",
-    "image": "images/book13.jpg"
+    "image": "images/book13.jpg",
+    "price": 20.99
   },
   {
     "title": "The Alchemist",
@@ -123,7 +136,8 @@
     "list_type": "Bestsellers",
     "rating": "4.6",
     "published": "2015-02-24",
-    "image": "images/book14.jpg"
+    "image": "images/book14.jpg",
+    "price": 27.99
   },
   {
     "title": "The Midnight Library",
@@ -132,7 +146,8 @@
     "list_type": "Bestsellers",
     "rating": "4.3",
     "published": "2020-09-26",
-    "image": "images/book15.jpg"
+    "image": "images/book15.jpg",
+    "price": 26.99
   },
   {
     "title": "The Invisible Life of Addie LaRue",
@@ -141,7 +156,8 @@
     "list_type": "Bestsellers",
     "rating": "4.5",
     "published": "2020-10-06",
-    "image": "images/book16.jpg"
+    "image": "images/book16.jpg",
+    "price": 30.0
   },
   {
     "title": "The Vanishing Half",
@@ -150,7 +166,8 @@
     "list_type": "Bestsellers",
     "rating": "4.4",
     "published": "2020-06-02",
-    "image": "images/book17.jpg"
+    "image": "images/book17.jpg",
+    "price": 28.99
   },
   {
     "title": "The Boy, the Mole, the Fox and the Horse",
@@ -159,7 +176,8 @@
     "list_type": "Bestsellers",
     "rating": "4.9",
     "published": "2019-10-29",
-    "image": "images/book18.jpg"
+    "image": "images/book18.jpg",
+    "price": 13.99
   },
   {
     "title": "Untamed",
@@ -168,7 +186,8 @@
     "list_type": "Bestsellers",
     "rating": "4.6",
     "published": "2020-03-10",
-    "image": "images/book19.jpg"
+    "image": "images/book19.jpg",
+    "price": 11.99
   },
   {
     "title": "Pachinko",
@@ -177,6 +196,7 @@
     "list_type": "Bestsellers",
     "rating": "5.0",
     "published": "2017-02-07",
-    "image": "images/book20.jpg"
+    "image": "images/book20.jpg",
+    "price": 11.99
   }
 ]

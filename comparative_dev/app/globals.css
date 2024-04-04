@@ -8,26 +8,180 @@
   --background-end-rgb: 255, 255, 255;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
-
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background-color: #ececec;
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+.navbar {
+  text-align: center;
+  color: #ec5f22;
+  font-weight: bold;
+  background-color: white;
+}
+
+.daves {
+  font-size: 2.5rem;
+  line-height: 1;
+}
+
+.bookclub {
+  font-size: 1.5rem;
+  margin-top: -0.5rem;
+}
+
+.listingAndCart {
+  display: flex;
+  flex-direction: row;
+}
+
+ul {
+  list-style-type: disc;
+  list-style-position: outside;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+
+.agg {
+  position: sticky;
+  top: 2rem;
+  background-color: white;
+  height: fit-content;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  border-radius: 4px;
+  margin-right: 2rem;
+  max-width: 20%;
+  min-width: 327px;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.itemlist {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.navbar {
+  text-align: center;
+}
+
+.bookFormat {
+  color: rgb(102, 102, 102);
+  font-weight: 600;
+}
+
+.price {
+  font-size: x-large;
+  font-weight: 500;
+  margin: 0rem 0.5rem;
+}
+
+.bookItem {
+  width: 250px;
+  margin: 1rem 1rem;
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: white;
+  border-radius: 8px;
+  height: 500px;
+}
+
+img {
+  width: 80%;
+  height: auto;
+  max-height: 220px;
+  display: block;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+.title-cut {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 0;
+  line-height: 1.5rem;
+}
+
+.bookItem:hover {
+  background-color: #dae5f8;
+}
+
+.item-content {
+  margin: 0rem 0.5rem;
+}
+
+img {
+  width: 250px;
+  border-radius: 8px;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.item-section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.like {
+  width: 40px;
+  margin-left: 10px;
+}
+
+.button {
+  background-color: black;
+  padding: 0.5rem 1rem;
+  border-radius: 0.2rem;
+  color: white;
+}
+
+.filters {
+  margin: 1rem 0 1rem 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.filters select,
+.filters button {
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.filters button,
+.filters select:hover {
+  background-color: #f0f0f0;
+}
+
+.resetButton {
+  color: black;
+  border: none;
+}
+
+.resetButton:hover {
+  background-color: #ec5f22;
+}
+
+.clearCartButton {
+  padding: 8px 12px;
+  background-color: #ec5f22;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
 }
